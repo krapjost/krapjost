@@ -1,1 +1,1 @@
-[<img src="https://img.shields.io/badge/dynamic/json?color=%23000&label=leetcode&labelColor=333333&style=for-the-badge&prefix=%20total%20&query=num_solved&suffix=%20solved%20&url=https%3A%2F%2Fleetcode.com%2Fapi%2Fproblems%2Falgorithms%2F%3Fuser_name%3Dkrapjost&logo=LeetCode&logoColor=FFA116"/>](https://leetcode.com/krapjost/)
+hello
