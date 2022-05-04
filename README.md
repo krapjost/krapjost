@@ -7,6 +7,3 @@ and be a real programmar. and make more.
 Currently developing [task manager app](https://github.com/krapjost/non) using flutter/dart.
 ##### What i will do
 make simple chat app using flutter backed with elixir/pheonix server 
-##### What i interested in now
-- How to code more efficiently.
-- Is functional is my thing? let's learn elixir as a starting point to get the answer.
