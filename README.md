@@ -1,5 +1,5 @@
 ### Who am i
-✨ I'm junior developer. My life goal is make something beautiful.
+✨ I'm junior developer. My life's goal is make something beautiful.
 ### What i've done
 1. worked as a react/go developer at [namusoft](https://www.namusoft.co.kr) for 10 month.
 ### What i do
