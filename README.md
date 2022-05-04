@@ -6,4 +6,4 @@
 ##### What i do
 - Currently developing [task manager app](https://github.com/krapjost/non) using flutter/dart.
 ##### What i want to do next
-- make some simple app using flutter backed with elixir/pheonix server
+- Make some simple app using flutter backed with elixir/pheonix server
