@@ -1,5 +1,5 @@
 ### Who am i
-I'm self-taught coder. My life's goal is make something ✨ astoundingly beautiful. 
+I'm self-taught coder. My life's goal is make something astoundingly ✨ beautiful. 
 and be a real programmar. and make more.
 ### What i've done
 1. worked as a react/go developer at [namusoft](https://www.namusoft.co.kr) for 10 month.
